@@ -1,0 +1,17 @@
+body {
+    background-color: lightyellow;    
+    color: rgb(54, 53, 53);
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+strong {
+    font-size: 20px;
+}
+
+li {
+
+}
